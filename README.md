@@ -1,3 +1,3 @@
-# ![Énoncés](https://raw.githubusercontent.com/enonces/enonces/docs/enonces.png)
+# ![Énoncés](https://github.com/enonces/enonces/raw/master/docs/enonces.png)
    Typos-Graphetiques
    ------------------
